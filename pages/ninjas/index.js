@@ -1,5 +1,5 @@
 import styles from "../../styles/Ninjas.module.css"
-import Link from "next/Link";
+import Link from "next/link";
 
 
 export const getStaticProps = async () => {
